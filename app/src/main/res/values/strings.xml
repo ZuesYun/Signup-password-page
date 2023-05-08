@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">money transfer</string>
+    <string name="have_a_referral_code" />
+    <string name="title_activity_passwordpage">passwordpage</string>
+</resources>
